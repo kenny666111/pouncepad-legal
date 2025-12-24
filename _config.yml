@@ -1,0 +1,9 @@
+title: PouncePad Legal
+description: Privacy Policy and Terms of Service for PouncePad
+theme: jekyll-theme-minimal
+
+# Permalink settings
+permalink: pretty
+
+# Markdown settings
+markdown: kramdown
